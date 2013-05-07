@@ -2,3 +2,4 @@ uselessd
 ========
 
 go testing
+CHAN
